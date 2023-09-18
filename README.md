@@ -8,3 +8,6 @@ Students:
 
 # Introduction
 An RPG game with fantasy and medieval themes, where you can explore a large 3D map with many realistic effects and actions.
+
+# Unity version
+2021.3.18f1
