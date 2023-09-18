@@ -13,6 +13,6 @@ An RPG game with fantasy and medieval themes, where you can explore a large 3D m
 2021.3.18f1
 
 # Resource
-Github: [REVIPE - Github](https://github.com/SIReal3103/REVIPE)
-Introduction video: [REVIPE - Introduction video](https://youtu.be/8-5vOYntBg8)https://youtu.be/8-5vOYntBg8
-Demo: [Download REIPVE](https://drive.google.com/file/d/1GOguyhDkkZe9XdMjj7oJTQJhLvDyfMSY/view?usp=sharing)https://drive.google.com/file/d/1GOguyhDkkZe9XdMjj7oJTQJhLvDyfMSY/view?usp=sharing
+- Github: [REVIPE - Github](https://github.com/SIReal3103/REVIPE)
+- Introduction video: [REVIPE - Introduction video](https://youtu.be/8-5vOYntBg8)https://youtu.be/8-5vOYntBg8
+- Demo: [Download REIPVE](https://drive.google.com/file/d/1GOguyhDkkZe9XdMjj7oJTQJhLvDyfMSY/view?usp=sharing)https://drive.google.com/file/d/1GOguyhDkkZe9XdMjj7oJTQJhLvDyfMSY/view?usp=sharing
